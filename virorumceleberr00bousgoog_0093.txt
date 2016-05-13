@@ -1,0 +1,50 @@
+¹48 conmeantum‘errsroarcuara
+
+1695 petto centri gravitatis, difficile luillet obtinere lineae constructionem:
+Maii nempe ( Fig. 9.) datis pandis A & C, &longitudine catenae, vel
+ΑΒΗ· funiculi AC3 quaeritur natura curva talis, ut Aa lit omnium pos-
+
+srbiliurn minima. Hoc prosetto Problema deberet analytice solvi
+poue, reda via 3 etiamst ignoretur Tangentes AT &E T, concur-
+rere in T, sub G centro arcus AC vel aliquid fimile. Qram et-
+go methodum adhibendam putas, fi ipsum Problema in terminis pro-
+pofitis confideremus.
+
+Inter alias cogitationes hac mihi in mentem venit, perquam
+Problema, saltem videtur polle reduci ad seriem infinitam: AB sit
+x, dc arcus ACfit z tc fiat (1) z=ax4bxx -Ι- cx¹, dcc.
+& AF erit stada : z = minimo poffibili. Et quia z¹ longitudo cur-
+vae est constans in omnibus diversis curvaturis, ex quibus ea eligi-
+tur, per quana maximus centri gravitatis descensus obtinetur ; ideo
+
+etiam (3) ſsrdzzminitnm seueritsxdz=<4)-¹-aexx ÷÷¹
+
+a
+ὦκ’ ψ-Ξ-εκ* &a π (5)m posito m fignificare minimum ra-
+lorem. Sed· queruntur coefficientes Α, b, c; &c Hamm inven-
+tionem puto tentari polle, per unicam litteram querendam e, unam·
+
+que datam r, faciendo(6)a==10e÷1ra(7)b:=20e²÷21eae
+
+' ÷22aa.' ( 8 )c== 30e³ -Ι- 31e²a÷ 32ea¹ -t- 33a³ δι ita porro, ubi
+
+numeros 10, ιι, 20, &c. adhibeo loco litterarum3 praeterea ex-'
+plicabo κ, faciendo( ιο) x π y †r,· cujus rationem postea di-
+cam. Fnrplicando jam aquationem ( q) per (6 )‚( ), (8),&c.,
+δι per ¹aquationem (ιο), & ordinando secundum (y), habebo aequa·-
+tionem quus forma est (1 ι)... 7¹ -l- ....y¹ ÷...y² &c == m. Hanc·
+jam oportet differentiam, sedita ut sola litterae in ipsa confidere-
+tur, ut differentiabilis3 ita habetur aequatio nova duodecima, in
+qua sublata est m. Sed oportet etiam in ea tolli y, quod fit divel-
+
+“ lendo ipsam in tot aquationes destruditias, quot sunt termini, quae
+
+omnes, cum lmt secundum unam incognitam e, debent coincide-
+re inter le, idest arbitraria ιι, 12, ao, &c ita explicanda· sunt,
+ut quavis harum aquationum dividi pollrt per eandem aquationem
+finitam valorem ipsius c exhibentem 3 quo invento, ad seriem inli-¹
+
+nitam
+
+ 
+
